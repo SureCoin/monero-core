@@ -160,7 +160,7 @@
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="93"/>
-        <source>Starting Monero daemon in %1 seconds</source>
+        <source>Starting Surecoin daemon in %1 seconds</source>
         <translation>Komencado de la demono en %1 sekundoj</translation>
     </message>
     <message>
@@ -544,8 +544,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>La minado kun via komputilo sekurigas la Monerreto.  Se pli da homoj minus, la reto iĝus malpli atakebla. Ĉio gravas. &lt;br&gt; &lt;br&gt;Vi havas malgrandan ŝancon ricevi rekompenco en Monero. Via komputilo kreos haketojn dum serĉi bloksolvojn. Se vi trovas blokon, vi recivos la asociitan rekompencon. Bonŝancon!</translation>
+        <source>Mining with your computer helps strengthen the Surecoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Surecoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>La minado kun via komputilo sekurigas la Monerreto.  Se pli da homoj minus, la reto iĝus malpli atakebla. Ĉio gravas. &lt;br&gt; &lt;br&gt;Vi havas malgrandan ŝancon ricevi rekompenco en Surecoin. Via komputilo kreos haketojn dum serĉi bloksolvojn. Se vi trovas blokon, vi recivos la asociitan rekompencon. Bonŝancon!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="96"/>
@@ -1160,7 +1160,7 @@
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="499"/>
-        <source>Embedded Monero version: </source>
+        <source>Embedded Surecoin version: </source>
         <translation>Enkorpigita Monera versio</translation>
     </message>
     <message>
@@ -1825,12 +1825,12 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
-        <translation>Preskaŭ Preta - ni agordu kelkajn preferojn por Monero Core</translation>
+        <source>We’re almost there - let’s just configure some Surecoin preferences</source>
+        <translation>Preskaŭ Preta - ni agordu kelkajn preferojn por Surecoin Core</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
-        <source>Kickstart the Monero blockchain?</source>
+        <source>Kickstart the Surecoin blockchain?</source>
         <translation>Komencigi la Monera blokĉeno?</translation>
     </message>
     <message>
@@ -1849,7 +1849,7 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="144"/>
-        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Monero instance. However, storing the full blockchain is beneficial to the security of the Monero network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
+        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Surecoin instance. However, storing the full blockchain is beneficial to the security of the Surecoin network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
         <translation>Diskakonservado-reĝimo uzas malmultege da diskspaco, sed la saman kvanton da retkapacito ol normala Monera nodo. Tamen, la konservado de la plena blokĉeno beneficas por la sekureco de la Monerreto.Se vi uzas aparaton kun mulmulte da diskspaco, tio ĉi opcio taŭgas al vi.</translation>
     </message>
     <message>
@@ -1859,7 +1859,7 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="175"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <source>Mining secures the Surecoin network, and also pays a small reward for the work done. This option will let Surecoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
         <translation>La minado sekurigas la Monerreton kaj vi ricevas rekompenceton por la laboro. Tio ĉi opcio ŝaltos la minadon kiam via komputilo uzas la kurentprovizon kaj estas senokupa. La minado haltos kiam vi daŭrigi uzi la komputilon.</translation>
     </message>
 </context>
@@ -1891,8 +1891,8 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
-        <translation>La programado de Monero estas nur sustenata per donacoj.</translation>
+        <source>Surecoin development is solely supported by donations</source>
+        <translation>La programado de Surecoin estas nur sustenata per donacoj.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
@@ -1906,8 +1906,8 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Monero development.</source>
-        <translation>Por ĉiu transakcio, one devas pagi malgrandan transakcikoston. Tio ĉi opcio ebligas aldona kvato (procento de la basa kosto) al via transakcio por subteni la progamadon de Monero.Ekzemple, 50% aŭtomata donaco aldonas 0.0025 XMR al transakcikosto de 0.005 XMR.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Surecoin development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Surecoin development.</source>
+        <translation>Por ĉiu transakcio, one devas pagi malgrandan transakcikoston. Tio ĉi opcio ebligas aldona kvato (procento de la basa kosto) al via transakcio por subteni la progamadon de Surecoin.Ekzemple, 50% aŭtomata donaco aldonas 0.0025 XMR al transakcikosto de 0.005 XMR.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
@@ -1916,7 +1916,7 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="194"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <source>Mining secures the Surecoin network, and also pays a small reward for the work done. This option will let Surecoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
         <translation>La minado sekurigas la Monerreto kaj vi ricevas rekompenceto por la laboro. Tio ĉi opcio ŝaltos la minadon kiam via komputilo uzas la kurentprovizon kaj estas senokupa. La minado haltos kiam vi daŭrigi uzi la komputilon.</translation>
     </message>
 </context>
@@ -1990,7 +1990,7 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
         <translation>Ne forgesu noti vian semon. Vi povas vidi vian semon kaj ŝanĝi viajn agordojn en la agorda paĝo.</translation>
     </message>
     <message>
-        <source>An overview of your Monero configuration is below:</source>
+        <source>An overview of your Surecoin configuration is below:</source>
         <translation type="vanished">Superrigardo de via Monera Agordo estas sube:</translation>
     </message>
     <message>
@@ -2132,8 +2132,8 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
-        <source>Welcome to Monero!</source>
-        <translation>Bonvenon al Monero!</translation>
+        <source>Welcome to Surecoin!</source>
+        <translation>Bonvenon al Surecoin!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="98"/>
@@ -2257,8 +2257,8 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="79"/>
-        <source>Welcome to Monero!</source>
-        <translation>Bonvenon al Monero!</translation>
+        <source>Welcome to Surecoin!</source>
+        <translation>Bonvenon al Surecoin!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="89"/>
@@ -2339,12 +2339,12 @@ Bonvolu plibonigi aŭ konekti al alia demono</translation>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
-        <translation>Tio ĉi adreso ricevis %1 moneron; sed la transakcio ankoraŭ ne minatas</translation>
+        <source>This address received %1 surecoin, but the transaction is not yet mined</source>
+        <translation>Tio ĉi adreso ricevis %1 surecoinn; sed la transakcio ankoraŭ ne minatas</translation>
     </message>
     <message>
-        <source>This address received %1 monero, with %2 confirmations</source>
-        <translation type="vanished">Tio ĉi adreso ricevis %1 moneron, kun %2 da konfirmoj</translation>
+        <source>This address received %1 surecoin, with %2 confirmations</source>
+        <translation type="vanished">Tio ĉi adreso ricevis %1 surecoinn, kun %2 da konfirmoj</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>
@@ -2469,8 +2469,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1355"/>
-        <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Nova versio de monero-wallet-gui disponeblas:  %1&lt;br&gt;%2</translation>
+        <source>New version of surecoin-wallet-gui is available: %1&lt;br&gt;%2</source>
+        <translation>Nova versio de surecoin-wallet-gui disponeblas:  %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <source>Address: </source>
@@ -2506,8 +2506,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
-        <translation>Tio adreso ricevis %1 monero, kun %2 da konfirmo(j)</translation>
+        <source>This address received %1 surecoin, with %2 confirmation(s).</source>
+        <translation>Tio adreso ricevis %1 surecoin, kun %2 da konfirmo(j)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="744"/>
@@ -2531,8 +2531,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1017"/>
-        <source>Monero</source>
-        <translation>Monero</translation>
+        <source>Surecoin</source>
+        <translation>Surecoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1065"/>

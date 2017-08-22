@@ -164,8 +164,8 @@
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="93"/>
-        <source>Starting Monero daemon in %1 seconds</source>
-        <translation>Starte Monero-Daemon in %1 Sekunden</translation>
+        <source>Starting Surecoin daemon in %1 seconds</source>
+        <translation>Starte Surecoin-Daemon in %1 Sekunden</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="115"/>
@@ -544,8 +544,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Mit deinem Computer zu minen hilft dabei, das Monero-Netzwerk zu stärken. Je mehr Leute minen, desto schwieriger kann das Netzwerk angegriffen werden. Jeder kann helfen! &lt;br&gt; &lt;br&gt;Das Mining bietet dir die Möglichkeit, Monero zu verdienen. Dein Computer errechnet dabei Hash-Werte für neue Blöcke. Wenn du einen neuen Block findest, bekommst du die Belohnung dafür. Viel Erfolg!</translation>
+        <source>Mining with your computer helps strengthen the Surecoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Surecoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Mit deinem Computer zu minen hilft dabei, das Surecoin-Netzwerk zu stärken. Je mehr Leute minen, desto schwieriger kann das Netzwerk angegriffen werden. Jeder kann helfen! &lt;br&gt; &lt;br&gt;Das Mining bietet dir die Möglichkeit, Surecoin zu verdienen. Dein Computer errechnet dabei Hash-Werte für neue Blöcke. Wenn du einen neuen Block findest, bekommst du die Belohnung dafür. Viel Erfolg!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="96"/>
@@ -1101,8 +1101,8 @@
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="499"/>
-        <source>Embedded Monero version: </source>
-        <translation>Eingebundene Monero-Version: </translation>
+        <source>Embedded Surecoin version: </source>
+        <translation>Eingebundene Surecoin-Version: </translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="509"/>
@@ -1843,12 +1843,12 @@ Please upgrade or connect to another daemon</source>
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
+        <source>We’re almost there - let’s just configure some Surecoin preferences</source>
         <translation>Fast geschafft - lass uns noch ein paar Einstellungen vornehmen</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
-        <source>Kickstart the Monero blockchain?</source>
+        <source>Kickstart the Surecoin blockchain?</source>
         <translation>Die Blockchain ankurbeln?</translation>
     </message>
     <message>
@@ -1867,7 +1867,7 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="144"/>
-        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Monero instance. However, storing the full blockchain is beneficial to the security of the Monero network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
+        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Surecoin instance. However, storing the full blockchain is beneficial to the security of the Surecoin network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
         <translation>Der Sparmodus verwendet deutlich weniger Festplattenspeicherplatz, aber dieselbe Menge an Bandbreite. Um das Netzwerk und Deine Privatsphähre zu schützen, solltest Du deshalb eine Kopie der Blockchain haben und diesen Modus nur verwenden, falls nicht ausreichend Speicherplatz verfügbar ist.</translation>
     </message>
     <message>
@@ -1877,7 +1877,7 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="175"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <source>Mining secures the Surecoin network, and also pays a small reward for the work done. This option will let Surecoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
         <translation>Schürfen schützt das Netzwerk und bezahlt Dich dafür im Gegenzug. Diese Option sorgt dafür, dass Dein Computer schürft während Du ihn nicht verwendest. Sobald du ihn wieder verwendest, wird der Schürfvorgang unterbrochen.</translation>
     </message>
 </context>
@@ -1909,8 +1909,8 @@ Please upgrade or connect to another daemon</source>
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
-        <translation>Die Weiterentwicklung von Monero wird alleine durch Spenden finanziert</translation>
+        <source>Surecoin development is solely supported by donations</source>
+        <translation>Die Weiterentwicklung von Surecoin wird alleine durch Spenden finanziert</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
@@ -1924,7 +1924,7 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Monero development.</source>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Surecoin development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Surecoin development.</source>
         <translation>Jede Transaktion kostet Dich eine kleine Gebühr. Mit dieser Option kannst Du einen zusätzlichen Prozentsatz dieser Kosten an die Entwickler spenden. Bei einer 50%igen Spende und einer Gebühr von 0.005 XMR gehen zusätzliche 0.0025 XMR von Deinem Konto an die Entwickler.</translation>
     </message>
     <message>
@@ -1934,7 +1934,7 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="194"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <source>Mining secures the Surecoin network, and also pays a small reward for the work done. This option will let Surecoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
         <translation>Schürfen schützt das Netzwerk und bezahlt Dich dafür im Gegenzug. Diese Option sorgt dafür, dass Dein Computer schürft während du ihn nicht verwendest. Sobald Du ihn wieder verwendest, wird der Schürfvorgang unterbrochen.</translation>
     </message>
 </context>
@@ -2008,7 +2008,7 @@ Please upgrade or connect to another daemon</source>
         <translation>Vergiss nicht, den mnemonischen Code aufzuschreiben. Du kannst ihn unter dem Menüpunkt Einstellungen einsehen.</translation>
     </message>
     <message>
-        <source>An overview of your Monero configuration is below:</source>
+        <source>An overview of your Surecoin configuration is below:</source>
         <translation type="vanished">Hier ist die Zusammenfassung deiner Konfiguration:</translation>
     </message>
     <message>
@@ -2155,8 +2155,8 @@ Please upgrade or connect to another daemon</source>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
-        <source>Welcome to Monero!</source>
-        <translation>Willkommen zu Monero!</translation>
+        <source>Welcome to Surecoin!</source>
+        <translation>Willkommen zu Surecoin!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="98"/>
@@ -2280,8 +2280,8 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="79"/>
-        <source>Welcome to Monero!</source>
-        <translation>Willkommen zu Monero!</translation>
+        <source>Welcome to Surecoin!</source>
+        <translation>Willkommen zu Surecoin!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="89"/>
@@ -2362,8 +2362,8 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
-        <translation>Diese Adresse hat %1 Monero empfangen, aber die Transaktion wurde noch nicht geschürft.</translation>
+        <source>This address received %1 surecoin, but the transaction is not yet mined</source>
+        <translation>Diese Adresse hat %1 Surecoin empfangen, aber die Transaktion wurde noch nicht geschürft.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1317"/>
@@ -2382,12 +2382,12 @@ Please upgrade or connect to another daemon</source>
     </message>
     <message>
         <location filename="../main.qml" line="1355"/>
-        <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Eine neue Version der monero-wallet-gui ist verfügbar: %1&lt;br&gt;%2</translation>
+        <source>New version of surecoin-wallet-gui is available: %1&lt;br&gt;%2</source>
+        <translation>Eine neue Version der surecoin-wallet-gui ist verfügbar: %1&lt;br&gt;%2</translation>
     </message>
     <message>
-        <source>This address received %1 monero, with %2 confirmations</source>
-        <translation type="obsolete">Diese Adresse hat %1 Monero empfangen, mit %2 Bestätigungen</translation>
+        <source>This address received %1 surecoin, with %2 confirmations</source>
+        <translation type="obsolete">Diese Adresse hat %1 Surecoin empfangen, mit %2 Bestätigungen</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>
@@ -2535,8 +2535,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
-        <translation>Diese Adresse hat %1 Monero erhalten, mit %2 Bestätigung(en)</translation>
+        <source>This address received %1 surecoin, with %2 confirmation(s).</source>
+        <translation>Diese Adresse hat %1 Surecoin erhalten, mit %2 Bestätigung(en)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="744"/>
@@ -2560,8 +2560,8 @@ Description: </source>
     </message>
     <message>
         <location filename="../main.qml" line="1017"/>
-        <source>Monero</source>
-        <translation>Monero</translation>
+        <source>Surecoin</source>
+        <translation>Surecoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1065"/>

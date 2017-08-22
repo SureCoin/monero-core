@@ -160,8 +160,8 @@
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="93"/>
-        <source>Starting Monero daemon in %1 seconds</source>
-        <translation>Monero-nod startar om %1 sekunder</translation>
+        <source>Starting Surecoin daemon in %1 seconds</source>
+        <translation>Surecoin-nod startar om %1 sekunder</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="115"/>
@@ -543,33 +543,33 @@
         <translation>(endast tillgängligt för lokala noder)</translation>
     </message>
     <message>
-        <source>Mining helps the Monero network build resilience.&lt;br&gt;</source>
-        <translation type="obsolete">Utvinning hjälper Monero-nätverket att bli motståndskraftigt.&lt;br&gt;</translation>
+        <source>Mining helps the Surecoin network build resilience.&lt;br&gt;</source>
+        <translation type="obsolete">Utvinning hjälper Surecoin-nätverket att bli motståndskraftigt.&lt;br&gt;</translation>
     </message>
     <message>
         <source>The more mining is done, the harder it is to attack the network.&lt;br&gt;</source>
-        <translation type="obsolete">Ju mer monero som utvinns, desto svårare blir det att angripa nätverket.&lt;br&gt;</translation>
+        <translation type="obsolete">Ju mer surecoin som utvinns, desto svårare blir det att angripa nätverket.&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Mining also gives you a small chance to earn some Monero.&lt;br&gt;</source>
-        <translation type="obsolete">Utvinning ger dig även en liten möjlighet att tjäna några Monero.&lt;br&gt;</translation>
+        <source>Mining also gives you a small chance to earn some Surecoin.&lt;br&gt;</source>
+        <translation type="obsolete">Utvinning ger dig även en liten möjlighet att tjäna några Surecoin.&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Your computer will search for Monero block solutions.&lt;br&gt;</source>
-        <translation type="obsolete">Din dator kommer att leta efter lösningar för Monero-block.&lt;br&gt;</translation>
+        <source>Your computer will search for Surecoin block solutions.&lt;br&gt;</source>
+        <translation type="obsolete">Din dator kommer att leta efter lösningar för Surecoin-block.&lt;br&gt;</translation>
     </message>
     <message>
         <source>If you find a block, you will get the associated reward.&lt;br&gt;</source>
         <translation type="obsolete">Om du hittar ett block får du den tillhörande belöningen.&lt;br&gt;</translation>
     </message>
     <message>
-        <source>Mining helps the Monero network build resilience. The more mining is done, the harder it is to attack the network. Mining also gives you a small chance to earn some Monero. Your computer will search for Monero block solutions. If you find a block, you will get the associated reward.</source>
-        <translation type="obsolete">Utvinning hjälper Monero-nätverket att bli motståndskraftigt. Ju mer monero som utvinns, desto svårare blir det att angripa nätverket. Utvinning ger dig även en liten möjlighet att tjäna några Monero. Din dator kommer att leta efter lösningar för Monero-block. Om du hittar ett block får du den tillhörande belöningen.</translation>
+        <source>Mining helps the Surecoin network build resilience. The more mining is done, the harder it is to attack the network. Mining also gives you a small chance to earn some Surecoin. Your computer will search for Surecoin block solutions. If you find a block, you will get the associated reward.</source>
+        <translation type="obsolete">Utvinning hjälper Surecoin-nätverket att bli motståndskraftigt. Ju mer surecoin som utvinns, desto svårare blir det att angripa nätverket. Utvinning ger dig även en liten möjlighet att tjäna några Surecoin. Din dator kommer att leta efter lösningar för Surecoin-block. Om du hittar ett block får du den tillhörande belöningen.</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Utvinning med din dator hjälper till att stärka Monero-nätverket. Ju mer som folk utvinner, ju svårare blir det för nätverket att angripas, och varje litet bidrag hjälper till.&lt;br&gt; &lt;br&gt;Utvinning ger dig även en liten möjlighet att tjäna några Monero. Din dator kommer att leta efter lösningar för block genom att skapa hashar. Om du hittar ett block får du den tillhörande belöningen. Lycka till!</translation>
+        <source>Mining with your computer helps strengthen the Surecoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Surecoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Utvinning med din dator hjälper till att stärka Surecoin-nätverket. Ju mer som folk utvinner, ju svårare blir det för nätverket att angripas, och varje litet bidrag hjälper till.&lt;br&gt; &lt;br&gt;Utvinning ger dig även en liten möjlighet att tjäna några Surecoin. Din dator kommer att leta efter lösningar för block genom att skapa hashar. Om du hittar ett block får du den tillhörande belöningen. Lycka till!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="96"/>
@@ -1039,8 +1039,8 @@
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="499"/>
-        <source>Embedded Monero version: </source>
-        <translation>Inbäddad Monero-version:</translation>
+        <source>Embedded Surecoin version: </source>
+        <translation>Inbäddad Surecoin-version:</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="509"/>
@@ -1879,13 +1879,13 @@ Uppgradera eller anslut till en annan nod</translation>
     <name>WizardConfigure</name>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
-        <source>We’re almost there - let’s just configure some Monero preferences</source>
-        <translation>Vi är nästan klara - låt oss bara göra några Monero-inställningar</translation>
+        <source>We’re almost there - let’s just configure some Surecoin preferences</source>
+        <translation>Vi är nästan klara - låt oss bara göra några Surecoin-inställningar</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
-        <source>Kickstart the Monero blockchain?</source>
-        <translation>Kickstarta Monero-blockkedjan?</translation>
+        <source>Kickstart the Surecoin blockchain?</source>
+        <translation>Kickstarta Surecoin-blockkedjan?</translation>
     </message>
     <message>
         <source>It is very important to write it down as this is the only backup you will need for your wallet. You will be asked to confirm the seed in the next screen to ensure it has copied down correctly.</source>
@@ -1903,8 +1903,8 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="144"/>
-        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Monero instance. However, storing the full blockchain is beneficial to the security of the Monero network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
-        <translation>Disksparläge använder markant mindre diskutrymme, men samma mängd bandbredd som en vanlig Monero-instans. Att spara hela blockkedjan är fördelaktigt för säkerheten för hela Monero-nätverket. Om du använder en enhet med begränsat diskutrymme så är denna inställning lämpad för dig.</translation>
+        <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Surecoin instance. However, storing the full blockchain is beneficial to the security of the Surecoin network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
+        <translation>Disksparläge använder markant mindre diskutrymme, men samma mängd bandbredd som en vanlig Surecoin-instans. Att spara hela blockkedjan är fördelaktigt för säkerheten för hela Surecoin-nätverket. Om du använder en enhet med begränsat diskutrymme så är denna inställning lämpad för dig.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="157"/>
@@ -1913,8 +1913,8 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="175"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Utvinning säkerställer Monero-nätverket, och betalar även en liten belöning för arbetet som utförs. Denna inställning låter Monero jobba när din dator körs på fast ström och inte används. Den kommer att sluta jobba när du använder datorn igen.</translation>
+        <source>Mining secures the Surecoin network, and also pays a small reward for the work done. This option will let Surecoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>Utvinning säkerställer Surecoin-nätverket, och betalar även en liten belöning för arbetet som utförs. Denna inställning låter Surecoin jobba när din dator körs på fast ström och inte används. Den kommer att sluta jobba när du använder datorn igen.</translation>
     </message>
 </context>
 <context>
@@ -1945,8 +1945,8 @@ Uppgradera eller anslut till en annan nod</translation>
     <name>WizardDonation</name>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
-        <source>Monero development is solely supported by donations</source>
-        <translation>Utvecklingen av Monero finansieras helt genom donationer</translation>
+        <source>Surecoin development is solely supported by donations</source>
+        <translation>Utvecklingen av Surecoin finansieras helt genom donationer</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
@@ -1960,8 +1960,8 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
-        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Monero development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Monero development.</source>
-        <translation>En liten överföringsavgift tas ut för varje överföring. Denna inställning låter dig lägga till ett ytterligare belopp, som en procent av den avgiften, till din överföring för att stödja utveckligen av Monero. Till exempel, en 50 % automatisk donation tar en överföringsavgift på 0,005 XMR och lägger på 0,0025 XMR för att stödja utvecklingen av Monero.</translation>
+        <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Surecoin development. For instance, a 50% autodonation take a transaction fee of 0.005 XMR and add a 0.0025 XMR to support Surecoin development.</source>
+        <translation>En liten överföringsavgift tas ut för varje överföring. Denna inställning låter dig lägga till ett ytterligare belopp, som en procent av den avgiften, till din överföring för att stödja utveckligen av Surecoin. Till exempel, en 50 % automatisk donation tar en överföringsavgift på 0,005 XMR och lägger på 0,0025 XMR för att stödja utvecklingen av Surecoin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
@@ -1970,8 +1970,8 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="194"/>
-        <source>Mining secures the Monero network, and also pays a small reward for the work done. This option will let Monero mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation>Utvinning säkerställer Monero-nätverket, och betalar även en liten belöning för arbetet som utförs. Denna inställning låter Monero jobba när din dator körs på fast ström och inte används. Den kommer att sluta jobba när du använder datorn igen.</translation>
+        <source>Mining secures the Surecoin network, and also pays a small reward for the work done. This option will let Surecoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
+        <translation>Utvinning säkerställer Surecoin-nätverket, och betalar även en liten belöning för arbetet som utförs. Denna inställning låter Surecoin jobba när din dator körs på fast ström och inte används. Den kommer att sluta jobba när du använder datorn igen.</translation>
     </message>
 </context>
 <context>
@@ -2029,8 +2029,8 @@ Uppgradera eller anslut till en annan nod</translation>
         <translation>Höjd att återskapa</translation>
     </message>
     <message>
-        <source>An overview of your Monero configuration is below:</source>
-        <translation type="obsolete">En översikt av din Monero-konfiguration visas nedan:</translation>
+        <source>An overview of your Surecoin configuration is below:</source>
+        <translation type="obsolete">En översikt av din Surecoin-konfiguration visas nedan:</translation>
     </message>
     <message>
         <source>You’re all setup!</source>
@@ -2179,8 +2179,8 @@ Uppgradera eller anslut till en annan nod</translation>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
-        <source>Welcome to Monero!</source>
-        <translation>Välkommen till Monero!</translation>
+        <source>Welcome to Surecoin!</source>
+        <translation>Välkommen till Surecoin!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="98"/>
@@ -2304,8 +2304,8 @@ Uppgradera eller anslut till en annan nod</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="79"/>
-        <source>Welcome to Monero!</source>
-        <translation>Välkommen till Monero!</translation>
+        <source>Welcome to Surecoin!</source>
+        <translation>Välkommen till Surecoin!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="89"/>
@@ -2479,8 +2479,8 @@ Avgift: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="1017"/>
-        <source>Monero</source>
-        <translation>Monero</translation>
+        <source>Surecoin</source>
+        <translation>Surecoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1065"/>
@@ -2498,12 +2498,12 @@ Ringstorlek:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="723"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
-        <translation>Denna adress tog emot %1 monero, men överföringen har ännu inte bekräftats</translation>
+        <source>This address received %1 surecoin, but the transaction is not yet mined</source>
+        <translation>Denna adress tog emot %1 surecoin, men överföringen har ännu inte bekräftats</translation>
     </message>
     <message>
-        <source>This address received %1 monero, with %2 confirmations</source>
-        <translation type="obsolete">Denna adress tog emot %1 monero, med %2 bekräftelser</translation>
+        <source>This address received %1 surecoin, with %2 confirmations</source>
+        <translation type="obsolete">Denna adress tog emot %1 surecoin, med %2 bekräftelser</translation>
     </message>
     <message>
         <location filename="../main.qml" line="732"/>
@@ -2540,8 +2540,8 @@ Ringstorlek:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="728"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
-        <translation>Denna adress tog emot %1 monero, med %2 bekräftelse(r).</translation>
+        <source>This address received %1 surecoin, with %2 confirmation(s).</source>
+        <translation>Denna adress tog emot %1 surecoin, med %2 bekräftelse(r).</translation>
     </message>
     <message>
         <location filename="../main.qml" line="744"/>
@@ -2570,8 +2570,8 @@ Ringstorlek:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1355"/>
-        <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Ny version av monero-wallet-gui finns tillgänglig: %1&lt;br&gt;%2</translation>
+        <source>New version of surecoin-wallet-gui is available: %1&lt;br&gt;%2</source>
+        <translation>Ny version av surecoin-wallet-gui finns tillgänglig: %1&lt;br&gt;%2</translation>
     </message>
 </context>
 </TS>
