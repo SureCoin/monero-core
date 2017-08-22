@@ -496,7 +496,7 @@ Rectangle {
         Label {
             id: guiMoneroVersion
             color: "#4A4949"
-            text: qsTr("Embedded Monero version: ") + Version.GUI_MONERO_VERSION + translationManager.emptyString
+            text: qsTr("Embedded Surecoin version: ") + Version.GUI_MONERO_VERSION + translationManager.emptyString
             fontSize: 16
         }
     }
