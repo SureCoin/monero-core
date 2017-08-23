@@ -8,7 +8,7 @@ ROOT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source $ROOT_DIR/utils.sh
 
 INSTALL_DIR=$ROOT_DIR/wallet
-MONERO_DIR=$ROOT_DIR/monero
+MONERO_DIR=$ROOT_DIR/surecoin
 BUILD_LIBWALLET=false
 
 # init and update monero submodule
@@ -114,7 +114,7 @@ else
 fi
 
 
-echo "cleaning up existing monero build dir, libs and includes"
+echo "cleaning up existing surecoin build dir, libs and includes"
 #rm -fr $MONERO_DIR/build
 rm -fr $MONERO_DIR/lib
 rm -fr $MONERO_DIR/include
