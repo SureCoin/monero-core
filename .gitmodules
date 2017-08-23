@@ -1,0 +1,3 @@
+[submodule "surecoin"]
+	path = surecoin
+	url = https://github.com/surecoin/surecoin.git
