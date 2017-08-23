@@ -52,7 +52,8 @@ MAKE='make'
 if [[ $platform == *bsd* ]]; then
     MAKE='gmake'
 fi
-
+echo "so far so good"
+exit 0
 # build libwallet
 $SHELL get_libwallet_api.sh $BUILD_TYPE
  
